@@ -129,10 +129,7 @@ body{
     text-align: center;
     padding-top: 4em;
 }
-/* hr.line-1{
-    
-    background-color:rgb(190, 27, 27);
-} */
+
 ul{
     display: flex;
     column-gap: 3em;
@@ -148,6 +145,11 @@ ul>li{
 
 /* Mobile Device  */
 @media only screen and (max-width: 576px) {
+    body{
+        margin: 0px;
+        padding: 0px;
+
+    }
     .top-banner {
         display: grid;
         grid-template-columns: repeat(1, 1fr);
@@ -272,5 +274,32 @@ ul>li{
             display: flex;
             gap: 2em;
             padding-left: 12px;
+        }
+        .footer-style {
+            background-color: #161616;
+            width: 100%;
+            height: auto;
+            
+    
+        }
+    
+        .footer-style h2 {
+            color: #ffffff;
+            text-align: center;
+            padding-top: 20px;
+        }
+    
+        ul {
+            display: flex;
+            flex-direction: column;
+    
+            
+        }
+    
+        ul>li {
+            color: lightgrey;
+            list-style: none;
+            padding: 10px;
+            text-align: center;
         }
 }
