@@ -153,4 +153,35 @@ ul>li{
         border-radius: 20px;
         margin: 5% 10%;
     }
+
+    .split-1 {
+        width: 100%;
+        
+    }
+    
+    .split-2 {
+        width: 100%;
+    }
+    
+    .split-1 h1 {
+        color: #ffffff;
+        font-size: 1em;
+        line-height: 1em;
+    
+    }
+    
+    .split-1 p {
+        color: #ffffff;
+        margin-top: -1.2em;
+        margin-bottom: 2em;
+    }
+    
+    .split-1 a {
+        color: #ffffff;
+        text-decoration: none;
+        font-size: 1em;
+        background-color: #DD0000;
+        padding: 10px 14px;
+        border-radius: 4px;
+    }
 }
