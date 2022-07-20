@@ -143,3 +143,14 @@ ul>li{
     list-style: none;
     padding: 4em 0;
 }
+
+/* Media Query  */
+@media screen and(maxwidth: 576px) {
+    .top-banner {
+        display: block;
+        width: auto;
+        background-color: black;
+        border-radius: 20px;
+        margin: 5% 10%;
+    }
+}
