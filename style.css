@@ -154,10 +154,11 @@ ul>li{
         display: grid;
         grid-template-columns: repeat(1, 1fr);
         height: auto;
-        width: fit-content;
+        width: 100%;
         background-color: #161616;
         border-radius: 20px;
         margin: 20px 40px;
+        padding: 15px;
         
     }
     .split-1{
@@ -171,8 +172,9 @@ ul>li{
     }
     .split-1 h1 {
         color: #ffffff;
-        font-size: 1em;
-        line-height: 1em;
+        font-size: 1.5em;
+        line-height: 1.2em;
+        margin: 0px 50px;
         
     
     }
@@ -265,7 +267,7 @@ ul>li{
         }
     
         .match-details img {
-            height: 100px;
+            height: 150px;
             width: 100%;
             
         }
