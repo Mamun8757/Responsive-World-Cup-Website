@@ -145,11 +145,11 @@ ul>li{
 }
 
 /* Media Query  */
-@media screen and(maxwidth: 576px) {
+@media screen and (maxwidth: 576px) {
     .top-banner {
         display: block;
         width: auto;
-        background-color: black;
+        background-color: rgb(209, 49, 49);
         border-radius: 20px;
         margin: 5% 10%;
     }
