@@ -176,8 +176,8 @@ ul>li{
         width: 100%;
         background-color: #161616;
         border-radius: 20px;
-        margin-left: 10px;
-        margin-right: 10px;
+        margin-left: auto;
+        margin-right: auto;
         padding: 15px;
         
     }
@@ -197,7 +197,7 @@ ul>li{
         color: #ffffff;
         font-size: 2em;
         line-height: 1.2em;
-        padding: 0px 30px;
+        padding: 0px 10px;
        
         
     
@@ -207,7 +207,7 @@ ul>li{
         color: #ffffff;
         margin-top: 1.2em;
         margin-bottom: 2em;
-        padding: 0px 40px;
+        padding: 0px 20px;
         font-size: 15px;
         
     }
@@ -391,7 +391,7 @@ ul>li{
             color: #ffffff;
             font-size: 2em;
             line-height: 1.2em;
-            padding: 0px 60px;
+            padding: 0px 10px;
     
     
     
@@ -401,7 +401,7 @@ ul>li{
             color: #ffffff;
             margin-top: 1.2em;
             margin-bottom: 2em;
-            padding: 0px 70px;
+            padding: 0px 10px;
             font-size: 15px;
     
         }
